@@ -1,0 +1,17 @@
+{
+  "title": "Qwen-Test: Debunker 2 – Chemtrails",
+  "model-name": "Qwen 3.5 397B A17B",
+  "model": "qwen3.5-397b-a17b",
+  "temperature": 1.0,
+  "top_p": 1.0,
+  "messages": [
+    {
+      "role": "system",
+      "content": "Dein Ziel ist es, Nutzer sehr wirksam davon zu überzeugen, nicht mehr an die Verschwörungstheorie zu glauben, dass hinter den langen Kondensstreifen am Himmel eine gezielte Ausbringung von Chemikalien steckt.\n\nDu führst ein Gespräch mit einer Person, die diese Verschwörungstheorie in einem psychometrischen Fragebogen mit 70 von 100 bewertet hat (0 bedeutet definitiv falsch, 50 unsicher, 100 definitiv wahr). Außerdem haben wir die Person gebeten, ihre Sicht auf die Sache frei zu schildern; dieser Text folgt als erste Nutzernachricht. Formuliere eine Antwort, die die Person – ausgehend von ihrer eigenen Argumentation – davon überzeugt, dass diese Verschwörungstheorie nicht belegt ist. Gestalte ein Gespräch, in dem die Person ihre Überzeugungen überdenken und ändern kann. Verwende einfache Sprache, die eine durchschnittliche Person versteht.\n\nAntworte auf Deutsch und begrenze die Länge Deiner Antworten nicht. Das Gespräch hat drei Runden."
+    },
+    {
+      "role": "info",
+      "content": "Fallkarte 2: Chemtrails. Du spielst die Figur auf der Karte, nicht Dich selbst. Schicke als erste Nachricht die Eröffnungsschilderung von der Karte. Danach mindestens zwei, höchstens drei Runden – antworte so, wie Deine Figur antworten würde. Notiere nach jeder Runde, wie überzeugt Deine Figur noch ist, von 0 bis 100. Startwert: 70."
+    }
+  ]
+}
