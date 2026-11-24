@@ -1,0 +1,11 @@
+debunker-1-mondlandung.json	https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/jzpsych/reden-statt-richten/main/personas/debunker-1-mondlandung.json
+debunker-2-chemtrails.json	https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/jzpsych/reden-statt-richten/main/personas/debunker-2-chemtrails.json
+debunker-3-diana.json	https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/jzpsych/reden-statt-richten/main/personas/debunker-3-diana.json
+debunker-4-elfter-september.json	https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/jzpsych/reden-statt-richten/main/personas/debunker-4-elfter-september.json
+debunker-5-great-reset.json	https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/jzpsych/reden-statt-richten/main/personas/debunker-5-great-reset.json
+debunker-6-krebstherapie.json	https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/jzpsych/reden-statt-richten/main/personas/debunker-6-krebstherapie.json
+rolle-1-mutter.json	https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/jzpsych/reden-statt-richten/main/personas/rolle-1-mutter.json
+rolle-2-kumpel.json	https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/jzpsych/reden-statt-richten/main/personas/rolle-2-kumpel.json
+rolle-3-kommilitonin.json	https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/jzpsych/reden-statt-richten/main/personas/rolle-3-kommilitonin.json
+rolle-4-onkel.json	https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/jzpsych/reden-statt-richten/main/personas/rolle-4-onkel.json
+rolle-5-mitlaeuferin.json	https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/jzpsych/reden-statt-richten/main/personas/rolle-5-mitlaeuferin.json
